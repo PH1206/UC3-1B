@@ -3,7 +3,13 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+Array: remover o ultimo elemento da lista
+´´´js
+const frutas = ["pera", "maçã", "banana", "uva"]
+
+const atualizandofrutas = livros.splice(0, 0,"node.js" );
+
+´´´
 
 
 
