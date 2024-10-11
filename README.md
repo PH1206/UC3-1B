@@ -3,7 +3,9 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Até agora, nós aprendemos: function, array, prompt, switch, if/else, true/false, const, var, num,
+Até agora, nós aprendemos: function:No JavaScript, uma função é um bloco de instruções que realiza uma tarefa ou calcula um valor. As funções são um dos pilares da linguagem de programação e são essenciais para criar aplicações web interativas. 
+array
+prompt, switch, if/else, true/false, const, var, num,
 
 
 ## Atividades desenvolvidas
